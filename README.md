@@ -39,7 +39,7 @@ Membuat program untuk mengurutkan data berdasarkan input sejumlah data, kemudian
 
 <h3>-Program-</h3>
 
-![img] screenshot
+![img] screenshot/1-1.png
 
 <h3>Penjelasan :</h3>
 
