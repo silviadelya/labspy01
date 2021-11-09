@@ -68,7 +68,7 @@ Membuat program dengan perulangan bertingkat (nested) for.
 
 <h3>-Program-</h3>
 
-![img] screenshot/2-1.png
+![Gambar 5](screenshot/2-1.png)
 
 <h3>Penjelasan :</h3>
 
