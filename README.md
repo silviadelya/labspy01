@@ -124,6 +124,6 @@ Membuat program dengan perulangan bertingkat (nested) for.
     ```
 <h3>-Output Program-</h3>
 
-![img] screenshot/3-2.png
+![Gambar 8](screenshot/3-2.png)
 
 <h3>Sekian Terimakasih</h3>
