@@ -2,11 +2,11 @@
 
 <h2>Latihan 1</h2>
 
-Membuat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari keduaa bilangan tersebut.
+Membuat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut.
 
 <h3>-Program-</h3>
 
-![img] screenshot/1.png
+![Gambar 1](screenshot/1.png)
 
 <h3>Penjelasan :</h3>
 
@@ -52,7 +52,7 @@ Membuat program untuk mengurutkan data berdasarkan input sejumlah data, kemudian
         angka_keempat=input("Bilangan ke-4\t:")
         bilangan=[angka_pertama, angka_kedua, angka_ketiga, angka_keempat]
     ```
-2. Untuk mengurutkan bilangan acak menjadi urutan data dari yang terkecil hingga yang terbesar, saya menggunakan fungsi <b>sort()</b>.
+2. Untuk mengurutkan bilangan acak menjadi urutan data dari yang terkecil hingga yang terbesar, gunakan fungsi <b>sort()</b>.
 
     ```bash
         bilangan.sort()
