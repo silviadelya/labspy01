@@ -60,7 +60,7 @@ Membuat program untuk mengurutkan data berdasarkan input sejumlah data, kemudian
 
 <h3>-Output Program-</h3>
 
-![img] screenshot/1-2.png
+![Gambar 4](screenshot/1-2.png)
 
 <h2>Latihan 3</h2>
 
