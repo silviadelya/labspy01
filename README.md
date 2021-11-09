@@ -98,7 +98,7 @@ Membuat program dengan perulangan bertingkat (nested) for.
 
 <h3>-Program-</h3>
 
-![img] screenshot
+![img] screenshot/3-1.png
 
 <h3>Penjelasan :</h3>
 
